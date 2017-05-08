@@ -2,8 +2,9 @@
 layout: post
 title:  "Crónicas de DDD eXchange 2017 - Episodio I"
 date:   2017-05-03 22:54:34 +0200
-author: "Javier Ferández"
+author: "Javier Fernández"
 categories: ddd conferencias
+comments: true
 ---
 
 El 27 y 28 de abril tuve la suerte de asistir como ponente a la conferencia [DDD eXchange 2017][ddd-exchange-2017] que tuvo lugar en Londres. A pesar de que todas las charlas están disponibles en la web del organizador, [Skills Matter][skills-matter-talks], creo que puede ser interesante hacer un resumen de las charlas a las que asistí para aquellos que no queráis dedicar los 40 minutos completos a ver cada una.
